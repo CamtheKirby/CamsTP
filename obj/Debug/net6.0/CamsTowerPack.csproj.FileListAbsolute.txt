@@ -1,0 +1,10 @@
+C:\Users\Owner\Documents\BTD6 Mod Sources\CamsTowerPack\bin\Debug\net6.0\CamsTowerPack.deps.json
+C:\Users\Owner\Documents\BTD6 Mod Sources\CamsTowerPack\bin\Debug\net6.0\CamsTowerPack.dll
+C:\Users\Owner\Documents\BTD6 Mod Sources\CamsTowerPack\obj\Debug\net6.0\CamsTowerPack.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\BTD6 Mod Sources\CamsTowerPack\obj\Debug\net6.0\CamsTowerPack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Documents\BTD6 Mod Sources\CamsTowerPack\obj\Debug\net6.0\CamsTowerPack.AssemblyInfoInputs.cache
+C:\Users\Owner\Documents\BTD6 Mod Sources\CamsTowerPack\obj\Debug\net6.0\CamsTowerPack.AssemblyInfo.cs
+C:\Users\Owner\Documents\BTD6 Mod Sources\CamsTowerPack\obj\Debug\net6.0\CamsTowerPack.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\BTD6 Mod Sources\CamsTowerPack\obj\Debug\net6.0\CamsTowerPack.dll
+C:\Users\Owner\Documents\BTD6 Mod Sources\CamsTowerPack\obj\Debug\net6.0\refint\CamsTowerPack.dll
+C:\Users\Owner\Documents\BTD6 Mod Sources\CamsTowerPack\obj\Debug\net6.0\ref\CamsTowerPack.dll
