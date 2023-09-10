@@ -2,7 +2,7 @@ namespace CamsTowerPack;
 
 public static class ModHelperData
 {
-    public const string WorksOnVersion = "37";
+    public const string WorksOnVersion = "38";
     public const string Version = "1.0.0";
     public const string Name = "Cams Tower Pack!";
 
