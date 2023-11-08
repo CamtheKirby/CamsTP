@@ -5,6 +5,5 @@
 
 <h1 align="center">CamsTowerPack</h1>
 
-All My Towers + Source Code!
 
-[![Requires BTD6 Mod Helper](https://raw.githubusercontent.com/gurrenm3/BTD-Mod-Helper/master/banner.png)](https://github.com/gurrenm3/BTD-Mod-Helper#readme)
+DOWNLOAD CAM'S PACK INSTEAD OF THIS !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
